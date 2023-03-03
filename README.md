@@ -18,3 +18,6 @@ This model is created to be used in an autonomous car to distribute masks in a c
 
 2. Once the car has reached the person, it will wait 3 seconds for the person to take a mask.
 3. Then, the car will reverse and repeat the process all over again.
+
+## Demo
+![ezgif com-video-to-gif (5)](https://user-images.githubusercontent.com/126875631/222827613-40f95121-64a7-4362-b451-47af8b6bf26f.gif)
